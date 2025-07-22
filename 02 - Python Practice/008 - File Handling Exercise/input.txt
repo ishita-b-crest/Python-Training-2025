@@ -1,0 +1,10 @@
+This method is preferred when a.
+single line or a range of lines from a. 
+file needs to be accessed simultaneously.
+It can be easily used to print lines from.
+any random starting index to some ending index. 
+It initially reads the entire.
+content of the file.
+and keep a copy of i.
+in memory. The lines at the.
+specified indices are then accessed.
